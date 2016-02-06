@@ -108,7 +108,7 @@ Check all your desired squares and click Submit to enter your information<br />
 <strong>The Rules:</strong><br/>
 <li><strong>$<?=$BET?></strong> per square</li>
 <li>This is cash only.</li>
-<li>You can buy 5 squares per person.</li>
+<li>You can buy 4 squares per person.</li>
 <li>Your square(s) is/are not guaranteed until Nilesh verifies it</li>
 <li>Numbers will be randomly draw and assigned after all squares are taken</li>
 <li>When confirmed, your square(s) will be changed to <font color="#009900"><strong>GREEN</strong></font></li>
@@ -141,5 +141,3 @@ Check all your desired squares and click Submit to enter your information<br />
 </tr>
 </table>
 </p>
-
-
