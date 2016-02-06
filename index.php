@@ -4,7 +4,7 @@ Online Super Bowl Squares Script
 Please read the "Readme.txt for license agreement, installation and usage instructions 
 -->
 <?php 
-error_reporting(0);
+//error_reporting(0);
 require_once('config.php');  
 $NFC = array();
 $AFC = array();
@@ -15,6 +15,7 @@ for ($i=1; $i<=10; $i++) {
 }
 $query="SELECT * FROM VNSB_numbers";
 $result = mysql_query($query);
+//var_dump($result); exit;
 if (!$result) {
 	echo mysql_error();
 	exit;
